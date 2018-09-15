@@ -1,6 +1,6 @@
 TelegramBotMessageSender_docker
 ==
-Docker image of [TelegramBotMessageSender](https://github.com/Sebreiro/TelegramBotMessageSender)
+[Docker image](https://hub.docker.com/r/sebreiro/telegrambotmessagesender_docker/) of [TelegramBotMessageSender](https://github.com/Sebreiro/TelegramBotMessageSender)
 
 ### Note ###  
 Application has no environment variables, all settings located in the config file `appsettings.json`  
